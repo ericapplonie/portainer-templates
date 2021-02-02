@@ -23,12 +23,12 @@
     "env": [
       {
         "name": "SERVER_PROFILE_URL",
-        "default": "https://github.com/pingidentity/pingidentity-server-profiles.git",
+        "default": "https://github.com/ericapplonie/pingidentity-server-profiles.git",
         "preset": true
       },
       {
         "name": "SERVER_PROFILE_PATH",
-        "default": "getting-started/pingfederate",
+        "default": "baseline/pingfederate",
         "preset": true
       }
     ]
